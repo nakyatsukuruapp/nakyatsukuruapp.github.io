@@ -89,11 +89,13 @@ python3 _tools/apply-zip.py joholab_v8.zip --apply  # 反映する
 
 ### 必須の head 要素
 ```html
-<title>（教材名）｜情報ラボ</title>
+<title>（教材名）｜joholab（情報ラボ）</title>
 <meta name="description" content="（120字程度。何ができるツールか）">
 <link rel="canonical" href="https://joholab.net/<slug>/">
 <meta property="og:title" / "og:description" / "og:type" / "og:url">
+<meta property="og:site_name" content="joholab（情報ラボ）">
 ```
+og:title も末尾は「｜joholab（情報ラボ）」。数強塾の「情報ラボ」（個別指導）と区別するため英字名を前に出す。
 `<head>` の末尾に AdSense ローダーを入れる（下記「広告」参照）。
 
 ### ページ構成（この順番）

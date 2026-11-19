@@ -4,7 +4,7 @@
 GitHub Pages で公開。`main` に push すると自動デプロイされる（反映まで1〜2分）。
 
 - 本番URL: https://joholab.net/
-- リポジトリ: RyotaBani/ryotabani.github.io
+- リポジトリ: nakyatsukuruapp/nakyatsukuruapp.github.io
 - ドメイン: Cloudflare Registrar（DNSもCloudflare、プロキシはOFF＝DNSのみ）
 
 ## ディレクトリ構成
